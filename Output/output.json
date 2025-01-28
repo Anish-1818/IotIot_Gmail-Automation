@@ -1,0 +1,17 @@
+{
+    "tasks": [
+        {
+            "task_id": "TASK-IMMEDIATE",
+            "fetched_at": "2025-01-28 19:09:07.387199",
+            "emails": [
+                {
+                    "email_id": "369",
+                    "subject": "Hello",
+                    "sender": "Anish Salpe <anishsalpe42@gmail.com>",
+                    "date": "Tue, 28 Jan 2025 19:07:32 +0530",
+                    "body": "Hiiiass\r\n"
+                }
+            ]
+        }
+    ]
+}
